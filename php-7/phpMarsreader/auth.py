@@ -1,6 +1,12 @@
-consumer_key = 'piTlShngkLqZF7gW8LcMM8K3A'
-consumer_secret = 'ttCm8QHP1N6hftHXgZXceA7BADz9pFXnXc5x2FjEsoCUXbygDi'
-access_token = '450477197-1SvKB9Cjqwx4RGzVY1M0Tt8CfQJtOTDrbP1azdGK'
-access_token_secret = '2fFKOoUA9lzhdxsrerNpSYjDZ9mrPpirAFM2W8r3REm0N'
+# previous keys revoked/invalidated
+
+# path = '/users/thoma/secret.txt'
+# secret_file = open(path,'r')
+# secret = secret_file.read()
+
+consumer_key = var_consumer_key
+consumer_secret = var_consumer_secret
+access_token = var_access_token
+access_token_secret = var_access_token_secret
 
 
