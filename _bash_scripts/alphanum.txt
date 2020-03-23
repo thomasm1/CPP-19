@@ -1,0 +1,6 @@
+computer 9000 900
+computer1 90000 100
+computer2 9000 200
+computer3 4000
+computer4
+
