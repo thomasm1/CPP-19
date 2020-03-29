@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 # suffix
 for fyle in *.$1
 do

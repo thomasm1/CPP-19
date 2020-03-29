@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 # finder
 grep $1 text > /dev/null
 if [ $? -eq 0 ]
